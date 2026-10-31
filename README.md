@@ -20,4 +20,4 @@ I work across the stack, from low-level systems programming in C and C++ to full
 ## Contact
 
 - Email: [emanuelmeauca200@gmail.com](mailto:emanuelmeauca200@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/emanuel-meauca](https://www.linkedin.com/in/emanuel-meauca)
+- LinkedIn: [https://www.linkedin.com/in/emanuel-meauca/](https://www.linkedin.com/in/emanuel-meauca/)
