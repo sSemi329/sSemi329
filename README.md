@@ -1,16 +1,23 @@
-## Hi there 👋
+# Meauca Emanuel
 
-<!--
-**sSemi329/sSemi329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Alexandru Ioan Cuza University, Iași, Romania.
 
-Here are some ideas to get you started:
+I work across the stack, from low-level systems programming in C and C++ to full-stack web development. I'm currently focused on strengthening my data structures and algorithms, and I'm looking for a software engineering internship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+
+- Studying Computer Science at UAIC, Faculty of Computer Science.
+- Comfortable in C, C++, Python, Rust and Java.
+- Volunteer in the External Relations department of ASII (Iași CS students' association).
+- Languages: Romanian (native), English (C1), Spanish (A2).
+
+## Selected projects
+
+- **[Text Based RPG](https://github.com/your-username/Text-Based-RPG)** - a Java text adventure built around an event-driven system, where the player's choices shape the story. Events, items, and enemies are data-driven and loaded from JSON files.
+
+- **[Operating Systems Coursework](https://github.com/sSemi329/FII-Operating-Systems)** — a collection of homework assignments for the Operating Systems course at UAIC's Faculty of Computer Science, covering topics like processes, file I/O, pipes, threads, synchronization
+
+## Contact
+
+- Email: [emanuelmeauca200@gmail.com](mailto:emanuelmeauca200@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/emanuel-meauca](https://www.linkedin.com/in/emanuel-meauca)
