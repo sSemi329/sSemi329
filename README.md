@@ -13,7 +13,7 @@ I work across the stack, from low-level systems programming in C and C++ to full
 
 ## Selected projects
 
-- **[Text Based RPG](https://github.com/your-username/Text-Based-RPG)** - a Java text adventure built around an event-driven system, where the player's choices shape the story. Events, items, and enemies are data-driven and loaded from JSON files.
+- **[Text Based RPG](https://github.com/sSemi329/Text-Based-RPG)** - a Java text adventure built around an event-driven system, where the player's choices shape the story. Events, items, and enemies are data-driven and loaded from JSON files.
 
 - **[Operating Systems Coursework](https://github.com/sSemi329/FII-Operating-Systems)** — a collection of homework assignments for the Operating Systems course at UAIC's Faculty of Computer Science, covering topics like processes, file I/O, pipes, threads, synchronization
 
