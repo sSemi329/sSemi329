@@ -6,10 +6,11 @@ I work across the stack, from low-level systems programming in C and C++ to full
 
 ## About
 
-- Studying Computer Science at UAIC, Faculty of Computer Science.
-- Comfortable in C, C++, Python, Rust and Java.
-- Volunteer in the External Relations department of ASII (Iași CS students' association).
-- Languages: Romanian (native), English (C1), Spanish (A2).
+- Studying Computer Science at UAIC, Faculty of Computer Science
+- Comfortable in C, C++, Python, Rust and Java
+- Volunteer in the External Relations department of ASII (Iași CS students' association)
+- Languages: Romanian (native), English (C1), Spanish (A2)
+- 3D graphics with Blender @ssemi_3d Instagram
 
 ## Selected projects
 
